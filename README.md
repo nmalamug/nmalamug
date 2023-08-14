@@ -3,6 +3,8 @@ My name is Nico. I'm a computer engineering student at Boston University with a 
 
 Here, you can find some of the more software-oriented projects I have created or contributed to. 
 
+Feel free to reach out to me at nmalamug@bu.edu!
+
 
 <!--
 **nmalamug/nmalamug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
