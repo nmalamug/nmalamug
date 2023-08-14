@@ -1,5 +1,5 @@
 ### Welcome to my GitHub Page!
-My name is Nico. I'm a computer engineering student at Boston University with a passion for hardware-software integration. 
+My name is Nico. I'm a computer engineering student at Boston University with a passion for Software-Physical integration. 
 
 Here, you can find some of the more software-oriented projects I have created or contributed to. 
 
