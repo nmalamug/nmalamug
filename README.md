@@ -5,6 +5,7 @@ Here, you can find some of the more software-oriented projects I have created or
 
 Feel free to reach out to me at nmalamug@bu.edu!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmalamug)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nmalamug/nmalamug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
