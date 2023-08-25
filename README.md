@@ -5,9 +5,10 @@ Here you can find some of the more software-oriented projects I have created or 
 
 Feel free to reach out to me at nmalamug@bu.edu!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmalamug"/>
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmalamug"/>
+
 **nmalamug/nmalamug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
